@@ -2,6 +2,9 @@
 
 Extra Credit Assignment for TCSS#321 Discrete Structures
 
+RuntimeTest.java : Driver program
+ArrayMaker : Class used by RuntimeTest for creating and filling arrays.
+
 Implements the three provided range algorithms, compares their runtime speeds in ms, and reports the results.
 
 For implementation, a seperate class was created to create an array of elements at different sizes.
